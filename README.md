@@ -1,6 +1,5 @@
-# Air-Cargo-Analysis
+Air-Cargo-Analysis
 
-Project description
 Air Cargo is an aviation company that provides air transportation services for passengers and freight. They use their air crafts to provide different services with the help of partnerships or alliances with other airlines. The company wants to prepare reports on regular passengers, busiest routes, ticket sales details, and other scenarios to improve the ease of travel and booking for customers.
 
 Project Objective:
@@ -8,6 +7,7 @@ To ensure that Air Cargo improves their operability and becomes more customer-fo
 o	Identify the regular customers to provide offers.
 o	Analyse the busiest route which will help to increase the number of aircrafts required. 
 o	Prepare an analysis to determine the ticket sales details. 
+
 Specific operations completed:
 1.	Created an ER diagram for the given airlines database.
 2.	Wrote a query to create route_details table using suitable data types for the fields, such as route_id, flight_num, origin_airport, destination_airport, aircraft_id, and distance_miles. Implement the check constraint for the flight number and unique constraint for the route_id fields. Also, make sure that the distance miles field is greater than 0.
